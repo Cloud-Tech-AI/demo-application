@@ -1,3 +1,12 @@
+/**
+ * Brew & Bean Coffee Shop Application
+ * 
+ * This module renders the coffee menu on the landing page.
+ * It uses a simple array-based configuration for menu items.
+ */
+
+const MENU_ITEMS = [
+
 const MENU_ITEMS = [
   { emoji: "☕", name: "Flat White", description: "Double ristretto, silky steamed milk.", price: "₹220" },
   { emoji: "🥐", name: "Butter Croissant", description: "Laminated in-house, baked at 6am.", price: "₹180" },
