@@ -6,8 +6,6 @@
  */
 
 const MENU_ITEMS = [
-
-const MENU_ITEMS = [
   { emoji: "☕", name: "Flat White", description: "Double ristretto, silky steamed milk.", price: "₹220" },
   { emoji: "🥐", name: "Butter Croissant", description: "Laminated in-house, baked at 6am.", price: "₹180" },
   { emoji: "🧊", name: "Cold Brew", description: "Steeped 18 hours, served over ice.", price: "₹240" },

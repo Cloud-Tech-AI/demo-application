@@ -132,6 +132,7 @@ body {
 }
 
 .menu-card {
+  position: relative;
   background: #ffffff;
   border-radius: var(--radius);
   padding: 24px;
